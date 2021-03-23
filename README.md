@@ -33,6 +33,11 @@ The initial system data generated can then be passed onto a separate existing co
 
 ![tri-v05](https://user-images.githubusercontent.com/59114226/112084116-7a8d0a80-8b45-11eb-86eb-2d54ffe94f19.gif)
 
+
+[Full-size video without the graininess of a GIF](https://user-images.githubusercontent.com/59114226/112084498-233b6a00-8b46-11eb-921a-e22fad01e394.mp4)
+
+
+
 The Python script can now allow further study on new and different types of collisions such as the 3 Q-ball collision.
 
 This was presented at the **UBC Multidisciplinary Undergraduate Research Conference 2021** under the title *The Complex Dynamical Behaviour of Q-balls in Collisions*
